@@ -33,7 +33,7 @@ This project was conceived and built over a 2-month period during my Summer 2025
 
 This section provides a clear, step-by-step guide for launching both the backend and frontend of the application locally.
 
-### **I. Prerequisites (필수 준비 사항)**
+### **I. Prerequisites**
 
 You must obtain and configure the following before running the application:
 
